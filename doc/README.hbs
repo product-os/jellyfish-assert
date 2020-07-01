@@ -1,0 +1,23 @@
+# Jellyfish assert
+
+This library contains custom assert-related utilities for use in Jellyfish.
+
+# Usage
+
+Below is an example how to use this library:
+
+```js
+const assert = require('@balena/jellyfish-assert')
+
+assert.INTERNAL(context, version, errors.InvalidVersion, 'Custom error details')
+assert.USER(context, input, errors.WorkerNoElement, 'Custom error details')
+```
+
+# Documentation
+
+{{#module name="assert"}}
+{{>body~}}
+{{>member-index~}}
+{{>separator~}}
+{{>members~}}
+{{/module}}
