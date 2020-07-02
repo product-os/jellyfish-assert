@@ -1,6 +1,10 @@
 {
   "name": "@balena/jellyfish-assert",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/product-os/jellyfish-assert.git"
+  },
   "description": "Assert library for Jellyfish",
   "main": "lib/index.js",
   "directories": {
