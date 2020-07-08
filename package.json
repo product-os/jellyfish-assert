@@ -19,7 +19,7 @@
   "author": "Balena.io. <hello@balena.io>",
   "license": "UNLICENSED",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.16"
   },
   "devDependencies": {
     "ava": "^3.10.1",
