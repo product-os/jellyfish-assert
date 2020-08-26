@@ -6,21 +6,38 @@
     "url": "https://github.com/product-os/jellyfish-assert.git"
   },
   "description": "Assert library for Jellyfish",
-  "main": "lib/index.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build/"
+  ],
   "directories": {
     "lib": "lib"
   },
   "deplint": {
     "files": [
-      "lib/**/*.{js}"
+      "lib/**/*.{ts}"
     ],
     "modules": [
       "lib"
     ]
   },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "balena-lint --typescript --fix",
+      "npm run doc"
+    ]
+  },
   "scripts": {
-    "test": "npm run doc && catch-uncommitted --skip-node-versionbot-changes && make lint && make test",
-    "doc": "jsdoc2md --template doc/README.hbs lib/index.js > README.md"
+    "clean": "rimraf build",
+    "build": "npm run clean && tsc",
+    "lint": "balena-lint --typescript lib test && npm run check && deplint && depcheck --ignore-bin-package --ignores=shellcheck,@types/jest",
+    "lint-fix": "balena-lint --typescript --fix lib test",
+    "unit": "jest",
+    "test": "npm run doc && catch-uncommitted --skip-node-versionbot-changes && npm run lint && npm run unit",
+    "doc": "typedoc lib/ && touch docs/.nojekyll",
+    "prepack": "npm run build",
+    "check": "./scripts/check-filenames.sh && ./scripts/check-licenses.sh && ./scripts/check-deployable-lib.sh && shellcheck ./scripts/*.sh"
   },
   "author": "Balena.io. <hello@balena.io>",
   "license": "UNLICENSED",
@@ -28,20 +45,23 @@
     "lodash": "^4.17.20"
   },
   "devDependencies": {
-    "ava": "^3.12.0",
+    "@balena/lint": "^5.2.0",
+    "@types/jest": "^26.0.10",
+    "@types/lodash": "^4.14.159",
     "catch-uncommitted": "^1.6.2",
     "depcheck": "^1.2.0",
     "deplint": "^1.1.2",
-    "eslint": "^7.7.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-jsdoc": "^30.2.4",
-    "eslint-plugin-lodash": "^7.1.0",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
-    "jsdoc-to-markdown": "^6.0.1",
+    "husky": "^4.2.5",
+    "jest": "^26.4.2",
+    "lint-staged": "^10.2.11",
     "shellcheck": "^0.4.4",
-    "typed-errors": "^1.1.0"
+    "ts-jest": "^26.2.0",
+    "typedoc": "^0.18.0",
+    "typescript": "^4.0.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
