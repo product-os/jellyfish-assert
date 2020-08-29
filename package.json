@@ -47,7 +47,7 @@
   "devDependencies": {
     "@balena/lint": "^5.2.0",
     "@types/jest": "^26.0.10",
-    "@types/lodash": "^4.14.160",
+    "@types/lodash": "^4.14.161",
     "catch-uncommitted": "^1.6.2",
     "depcheck": "^1.2.0",
     "deplint": "^1.1.2",
@@ -56,7 +56,7 @@
     "lint-staged": "^10.2.13",
     "shellcheck": "^0.4.4",
     "ts-jest": "^26.3.0",
-    "typedoc": "^0.18.0",
+    "typedoc": "^0.19.0",
     "typescript": "^4.0.2"
   },
   "husky": {
