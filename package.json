@@ -51,7 +51,7 @@
     "catch-uncommitted": "^1.6.2",
     "depcheck": "^1.2.0",
     "deplint": "^1.1.2",
-    "husky": "^4.2.5",
+    "husky": "^4.3.0",
     "jest": "^26.4.2",
     "lint-staged": "^10.3.0",
     "shellcheck": "^0.4.4",
