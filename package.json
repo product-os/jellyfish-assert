@@ -52,7 +52,7 @@
     "depcheck": "^1.2.0",
     "deplint": "^1.1.2",
     "husky": "^4.3.0",
-    "jest": "^26.6.0",
+    "jest": "^26.6.1",
     "lint-staged": "^10.4.2",
     "shellcheck": "^0.4.4",
     "ts-jest": "^26.4.1",
