@@ -1,6 +1,6 @@
 # Jellyfish assert
 
-This library contains custom assert-related utilities for use in Jellyfish.
+This library contains assert-related utilities for use in Jellyfish.
 
 The Jellyfish system distinguishes between two types of errors:
 - Internal errors, which are unexpected and should be fixed as soon as possible
