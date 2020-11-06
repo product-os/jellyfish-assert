@@ -47,7 +47,7 @@
   "devDependencies": {
     "@balena/lint": "^5.2.1",
     "@types/jest": "^26.0.15",
-    "@types/lodash": "^4.14.164",
+    "@types/lodash": "^4.14.165",
     "catch-uncommitted": "^1.6.2",
     "depcheck": "^1.2.0",
     "deplint": "^1.1.2",
