@@ -13,6 +13,9 @@
   "labels": [
     "dependencies"
   ],
+  "ignoreDeps": [
+    "node"
+  ],
   "packageRules": [
     {
       "groupName": "non-major",
