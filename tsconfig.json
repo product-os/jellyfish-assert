@@ -13,13 +13,9 @@
     "skipLibCheck": true
   },
   "typedocOptions": {
-    "mode": "modules",
-    "stripInternal": true,
     "excludePrivate": true,
     "excludeProtected": true,
-    "excludeNotExported": true,
     "excludeExternals": true,
-    "includeDeclarations": true,
     "gitRevision": "master",
     "out": "docs"
   },
