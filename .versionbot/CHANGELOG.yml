@@ -1,4 +1,25 @@
 - commits:
+    - subject: Update docs
+      hash: 3e5583d60af9df651d109c67290a4e912f441429
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: 'patch: Update non-major'
+      hash: 39df8db44e6c794010dd51e962efee0b34266e16
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.0.63
+  date: 2021-03-11T23:43:57.625Z
+- commits:
     - subject: 'patch: Update dependency husky to ^5.1.3'
       hash: d4d2ad7949fd035d63310819d2edbb7075e05071
       body: ''
