@@ -1,5 +1,26 @@
 - commits:
     - subject: Update docs
+      hash: 28261ccd4b36a85c4205c8b5c2c8121b15f71f60
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: 'patch: Update non-major'
+      hash: 6010042b8cef53d1069d34f1f18d8d087b8f7bf9
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.0.64
+  date: 2021-03-18T00:50:51.660Z
+- commits:
+    - subject: Update docs
       hash: 3e5583d60af9df651d109c67290a4e912f441429
       body: ''
       footer:
