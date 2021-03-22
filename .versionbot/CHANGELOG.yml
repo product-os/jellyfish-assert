@@ -1,4 +1,18 @@
 - commits:
+    - subject: Fix AssertExpression definition
+      hash: 6ed7fb80039152c745ed34426889a6c154ba378d
+      body: |
+        AssertExpression should also accept a string or number value.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Graham McCulloch <graham@balena.io>
+        signed-off-by: Graham McCulloch <graham@balena.io>
+      author: Graham McCulloch
+      nested: []
+  version: 1.0.67
+  date: 2021-03-22T09:32:46.338Z
+- commits:
     - subject: 'patch: Update dependency typedoc to ^0.20.33'
       hash: 772ef1566d4d88036fbd7f7c7446cd0c3dfdd65d
       body: ''
