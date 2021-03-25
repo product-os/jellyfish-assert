@@ -12,7 +12,7 @@ export type AssertContext = object | null;
 /**
  * Expression to assert.
  */
-export type AssertExpression = string | number | boolean | null | undefined;
+export type AssertExpression = any;
 
 /**
  * A function that returns a string.
