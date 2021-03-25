@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency @types/jest to ^26.0.22'
+      hash: 4fdf947bce04a77ee1baed4927031c55a5637a78
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.1
+  date: 2021-03-25T18:31:40.914Z
+- commits:
     - subject: AssertExpression can be any type
       hash: 4d23a378452270dd8a45b249427cb39042ca73ba
       body: ''
