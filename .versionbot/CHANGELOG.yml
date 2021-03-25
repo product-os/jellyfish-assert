@@ -1,4 +1,17 @@
 - commits:
+    - subject: Publish docs with GitHub action
+      hash: ac060d9e052a43dd20c0e71b5de17cefd030c445
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.0.68
+  date: 2021-03-25T00:56:10.925Z
+- commits:
     - subject: Fix AssertExpression definition
       hash: 6ed7fb80039152c745ed34426889a6c154ba378d
       body: |
