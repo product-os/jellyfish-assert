@@ -1,4 +1,21 @@
 - commits:
+    - subject: Bump y18n from 4.0.0 to 4.0.1
+      hash: 6691865372ef5b68632f9f03c7efa57299af9559
+      body: |
+        Bumps [y18n](https://github.com/yargs/y18n) from 4.0.0 to 4.0.1.
+        - [Release notes](https://github.com/yargs/y18n/releases)
+        - [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+        - [Commits](https://github.com/yargs/y18n/commits)
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: 'dependabot[bot] <support@github.com>'
+        signed-off-by: 'dependabot[bot] <support@github.com>'
+      author: 'dependabot[bot]'
+      nested: []
+  version: 1.1.3
+  date: 2021-03-31T06:36:40.401Z
+- commits:
     - subject: Split up tsconfig
       hash: 71382256f6de5c0fcde76ce08049bf5346de7dd9
       body: ''
