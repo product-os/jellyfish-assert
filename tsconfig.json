@@ -5,6 +5,7 @@
     "esModuleInterop": true,
     "noUnusedParameters": true,
     "noUnusedLocals": true,
+    "resolveJsonModule": true,
     "removeComments": true,
     "sourceMap": true,
     "strict": true,
@@ -19,5 +20,8 @@
     "gitRevision": "master",
     "out": "docs"
   },
-  "include": ["lib/**/*.ts"]
+  "include": [
+    "lib/**/*.ts",
+    "test/**/*.ts"
+  ]
 }
