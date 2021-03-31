@@ -1,4 +1,17 @@
 - commits:
+    - subject: Split up tsconfig
+      hash: 71382256f6de5c0fcde76ce08049bf5346de7dd9
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.1.2
+  date: 2021-03-31T00:00:40.417Z
+- commits:
     - subject: 'patch: Update dependency @types/jest to ^26.0.22'
       hash: 4fdf947bce04a77ee1baed4927031c55a5637a78
       body: ''
