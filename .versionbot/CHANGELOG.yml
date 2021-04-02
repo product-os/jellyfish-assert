@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency simple-git-hooks to ^2.3.1'
+      hash: 82c9a26054a6268e4ec3d97f55bc276bdcd590ba
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.4
+  date: 2021-04-02T21:14:41.521Z
+- commits:
     - subject: Bump y18n from 4.0.0 to 4.0.1
       hash: 6691865372ef5b68632f9f03c7efa57299af9559
       body: |
