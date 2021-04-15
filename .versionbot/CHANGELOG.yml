@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency ts-jest to ^26.5.5'
+      hash: a2deb3a8577ccea4cf87d8363bc9eb132047f105
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.7
+  date: 2021-04-15T16:53:27.255Z
+- commits:
     - subject: 'patch: Update dependency typescript to ^4.2.4'
       hash: 924feafac2847365a6a0adfadad47dce704608b3
       body: ''
