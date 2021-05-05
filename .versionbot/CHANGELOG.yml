@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency catch-uncommitted to v2'
+      hash: 00f9c2a3fa7145949ead60e6c55cb87301805cfc
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.13
+  date: 2021-05-05T21:21:40.163Z
+- commits:
     - subject: 'patch: Update dependency ts-jest to ^26.5.6'
       hash: 5b8663adff2eb5e4774dea9d05ad6362bf63b7d2
       body: ''
