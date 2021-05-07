@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency lint-staged to v11'
+      hash: 1b32a9385c86336b19f2c2254e77ce6a019d57a7
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.14
+  date: 2021-05-07T17:51:00.765Z
+- commits:
     - subject: 'patch: Update dependency catch-uncommitted to v2'
       hash: 00f9c2a3fa7145949ead60e6c55cb87301805cfc
       body: ''
