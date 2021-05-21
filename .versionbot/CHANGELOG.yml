@@ -1,4 +1,17 @@
 - commits:
+    - subject: Revert attempt to use external GitHub action
+      hash: e4017e7c7c50353beafa2f1a4f596c33703bd858
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Graham McCulloch <graham@balena.io>
+        signed-off-by: Graham McCulloch <graham@balena.io>
+      author: Graham McCulloch
+      nested: []
+  version: 1.1.20
+  date: 2021-05-21T08:29:10.150Z
+- commits:
     - subject: Use external workflow action for publishing docs
       hash: 4a8d4beb8331af7652b2504270ead09c154ad0d7
       body: ''
