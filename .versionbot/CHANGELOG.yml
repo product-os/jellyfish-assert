@@ -1,4 +1,17 @@
 - commits:
+    - subject: Use external workflow action for publishing docs
+      hash: 4a8d4beb8331af7652b2504270ead09c154ad0d7
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Graham McCulloch <graham@balena.io>
+        signed-off-by: Graham McCulloch <graham@balena.io>
+      author: Graham McCulloch
+      nested: []
+  version: 1.1.19
+  date: 2021-05-21T08:00:57.039Z
+- commits:
     - subject: Use jellyfish-config
       hash: 09734a9fbd1eb7f32808a25ebf7a59e2848359c0
       body: ''
