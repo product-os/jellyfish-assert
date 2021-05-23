@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.0.4'
+      hash: 9c36a018d4ada346aa442202c81deea4e6deea69
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.23
+  date: 2021-05-23T05:17:04.846Z
+- commits:
     - subject: 'patch: Update dependency @types/lodash to ^4.14.170'
       hash: 5c46833ed480ce46b6082939e7a03f69421bf833
       body: ''
