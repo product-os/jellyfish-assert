@@ -48,8 +48,8 @@
   },
   "devDependencies": {
     "@balena/jellycheck": "^0.1.1",
-    "@balena/jellyfish-config": "^1.0.5",
-    "@balena/lint": "^5.4.2",
+    "@balena/jellyfish-config": "^1.0.6",
+    "@balena/lint": "^6.0.0",
     "@types/jest": "^26.0.23",
     "@types/lodash": "^4.14.170",
     "catch-uncommitted": "^2.0.0",
