@@ -1,4 +1,17 @@
 - commits:
+    - subject: Bump simple-git-hooks to v2.5.1
+      hash: fdd39fe1059755bd329ca3b861fac2c0bb0eb82c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.1.52
+  date: 2021-06-29T06:45:50.823Z
+- commits:
     - subject: Bump jest to v27.0.5
       hash: 7fadb1caa5f399cc919672eb63dbbe5b4a77ab94
       body: ''
