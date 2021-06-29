@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update external-non-major'
+      hash: 5d5fc132fb4ed2be6cc9e2b848f6b46aeb98d489
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.53
+  date: 2021-06-29T06:54:11.305Z
+- commits:
     - subject: Bump simple-git-hooks to v2.5.1
       hash: fdd39fe1059755bd329ca3b861fac2c0bb0eb82c
       body: ''
