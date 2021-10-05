@@ -1,4 +1,25 @@
 - commits:
+    - subject: Set type for errors
+      hash: ef7adef4ddfb6c0c6ff3382f37ef6793700457f3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+      hash: a886a4d71df6fd5517a568d25d2f61aba889e2fa
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: joshbwlng
+      nested: []
+  version: 1.1.68
+  date: 2021-10-05T00:20:49.707Z
+- commits:
     - subject: use balena convention for npm script names
       hash: 4240c484ab6c2663dc718641781905e6d6f017fa
       body: |
