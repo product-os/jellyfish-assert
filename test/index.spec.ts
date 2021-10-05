@@ -44,7 +44,7 @@ test('.INTERNAL() throws an error on failing assertion', () => {
 test('.USER() thrown error has expected flag on', () => {
 	try {
 		assert.USER({}, false, TestError, 'Custom error details');
-	} catch (error) {
+	} catch (error: any) {
 		expect(error.expected).toBe(true);
 	}
 });
@@ -52,7 +52,7 @@ test('.USER() thrown error has expected flag on', () => {
 test('.INTERNAL() thrown error has expected flag off', () => {
 	try {
 		assert.INTERNAL({}, false, TestError, 'Custom error details');
-	} catch (error) {
+	} catch (error: any) {
 		expect(error.expected).toBe(false);
 	}
 });
