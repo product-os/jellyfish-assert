@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update example usage in readme
+      hash: c511439bd220e4c098b9e49be1ecd441615cc93e
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.1.69
+  date: 2021-11-10T04:16:15.452Z
+- commits:
     - subject: Set type for errors
       hash: ef7adef4ddfb6c0c6ff3382f37ef6793700457f3
       body: ''
