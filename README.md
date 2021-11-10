@@ -14,11 +14,11 @@ throughout the code
 
 Below is an example how to use this library:
 
-```js
-const assert = require('@balena/jellyfish-assert')
+```typescript
+import * as assert from '@balena/jellyfish-assert';
 
-assert.INTERNAL(context, version, errors.InvalidVersion, 'Custom error details')
-assert.USER(context, input, errors.WorkerNoElement, 'Custom error details')
+assert.INTERNAL(context, version, errors.InvalidVersion, 'Custom error details');
+assert.USER(context, input, errors.WorkerNoElement, 'Custom error details');
 ```
 
 # Documentation
