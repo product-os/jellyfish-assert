@@ -50,7 +50,7 @@
     "@balena/jellycheck": "^0.1.5",
     "@balena/jellyfish-config": "^1.5.8",
     "@balena/lint": "^6.1.1",
-    "@types/jest": "^26.0.24",
+    "@types/jest": "^27.0.2",
     "@types/lodash": "^4.14.171",
     "depcheck": "^1.4.2",
     "deplint": "^1.1.3",
