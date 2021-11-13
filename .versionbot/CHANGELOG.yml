@@ -1,4 +1,25 @@
 - commits:
+    - subject: Add typedoc to depcheck ignore list
+      hash: 52203b7881d0700c7ee2e87648f3e81b7c96bb42
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: 'patch: Update external-non-major'
+      hash: 1b88793309532f6d9183d881f21fd915a3f71e12
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.73
+  date: 2021-11-13T04:31:24.580Z
+- commits:
     - subject: 'patch: Update dependency @types/jest to v27'
       hash: 26480455470ba3a2d4ce9db1451fd3341cbef6ce
       body: ''
