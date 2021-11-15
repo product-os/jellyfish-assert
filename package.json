@@ -47,8 +47,8 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@balena/jellycheck": "^0.1.5",
-    "@balena/jellyfish-config": "^1.5.8",
+    "@balena/jellycheck": "^0.1.7",
+    "@balena/jellyfish-config": "^1.5.9",
     "@balena/lint": "^6.1.1",
     "@types/jest": "^27.0.2",
     "@types/lodash": "^4.14.176",
