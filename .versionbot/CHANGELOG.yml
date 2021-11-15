@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update internal-patch'
+      hash: c7b6f454e28a0c3f4b47e6058c69be5ea9a2d7c6
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.77
+  date: 2021-11-15T06:10:36.895Z
+- commits:
     - subject: Set license
       hash: df16eefbca2a402b9cf33957828e70646b5f6362
       body: ''
