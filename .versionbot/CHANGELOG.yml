@@ -1,4 +1,23 @@
 - commits:
+    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.14'
+      hash: 8a30f0d1533509f747b67cd2754f9d4d6b65b9da
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.13'
+      hash: d39c4a58405537f1b04e18a5507bc7373ab3a5c8
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.86
+  date: 2021-11-23T03:31:53.540Z
+- commits:
     - subject: Bump lint-staged to v12.1.1
       hash: afc94a4968147472705c998a0110b9fb0f446a80
       body: ''
