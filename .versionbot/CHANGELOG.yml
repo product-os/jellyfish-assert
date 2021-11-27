@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency typedoc to ^0.22.10'
+      hash: da4690be512d360e3698bc73f462559f3c7784b0
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.97
+  date: 2021-11-27T00:56:26.722Z
+- commits:
     - subject: 'patch: Update dependency @balena/lint to ^6.2.0'
       hash: 51712f0513df67405ef250e8cd26cfeca29d9940
       body: |
