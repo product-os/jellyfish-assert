@@ -1,4 +1,24 @@
 - commits:
+    - subject: 'patch: Update external-non-major'
+      hash: 3bb0ecc16f0332f2d978816d93e7cff16edc93cf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+    - subject: 'patch: Update dependency typescript to ^4.5.3'
+      hash: 7038537f1e222a5be445b5fd7f4a686afbd740b9
+      body: |
+        Update typescript from 4.5.2 to 4.5.3
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.1.102
+  date: 2021-12-11T00:24:11.599Z
+- commits:
     - subject: 'patch: Update dependency ts-jest to ^27.1.0'
       hash: fb04b9c1623e39ef0ee84d26073a963aabe5af74
       body: ''
