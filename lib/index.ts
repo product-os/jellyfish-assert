@@ -1,5 +1,21 @@
 import isFunction from 'lodash/isFunction';
-import { AssertError, AssertUser, AssertInternal, CreateError } from './types';
+import {
+	AssertError,
+	AssertUser,
+	AssertInternal,
+	CreateError,
+	AssertContext,
+	AssertExpression,
+	AssertErrorConstructor,
+	AssertMessage,
+} from './types';
+
+export {
+	AssertContext,
+	AssertExpression,
+	AssertErrorConstructor,
+	AssertMessage,
+};
 
 /**
  * Create and return an error object
