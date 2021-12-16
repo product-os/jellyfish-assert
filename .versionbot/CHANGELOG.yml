@@ -1,4 +1,17 @@
 - commits:
+    - subject: Reexport internal types that are used in public interfaces
+      hash: 60ffe5ef07bef1febe1747abec901c5e68e325ba
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Carol Schulze <carol@balena.io>
+        signed-off-by: Carol Schulze <carol@balena.io>
+      author: Carol Schulze
+      nested: []
+  version: 1.2.0
+  date: 2021-12-16T18:15:40.623Z
+- commits:
     - subject: 'Drop depcheck, bump typescript'
       hash: e04bf5d8aa1960d17922729f7f5fb18f2fd181dc
       body: ''
