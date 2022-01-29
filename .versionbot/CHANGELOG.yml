@@ -1,7 +1,19 @@
 - commits:
-    - subject: 'patch: Update dependency lint-staged to ^12.3.1'
+    - subject: Update dependencies (external non-major bumps)
+      hash: bc0c8aab3fba3fbf71473845dc18ec1ea72983cc
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.2.12
+  title: Update dependencies (external non-major bumps)
+  date: 2022-01-29T00:36:40.353Z
+- commits:
+    - subject: "patch: Update dependency lint-staged to ^12.3.1"
       hash: e3ee9ca45dd9475bef534cad8d04f87612866063
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -10,9 +22,9 @@
   version: 1.2.11
   date: 2022-01-23T17:03:44.738Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to ^12.3.0'
+    - subject: "patch: Update dependency lint-staged to ^12.3.0"
       hash: 16aebb34d20563d5fd55b3f73877d28003fbbe03
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -21,9 +33,9 @@
   version: 1.2.10
   date: 2022-01-23T12:09:48.518Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: b06dce1be284f26f69b238b2f482f5fbba9465fc
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -32,7 +44,7 @@
   version: 1.2.9
   date: 2022-01-22T01:29:37.352Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.22.11'
+    - subject: "patch: Update dependency typedoc to ^0.22.11"
       hash: a099916454b962c03694b10650028f7b4486139e
       body: |
         Update typedoc from 0.22.10 to 0.22.11
@@ -44,9 +56,9 @@
   version: 1.2.8
   date: 2022-01-19T04:56:15.959Z
 - commits:
-    - subject: 'patch: Update dependency ts-jest to ^27.1.3'
+    - subject: "patch: Update dependency ts-jest to ^27.1.3"
       hash: a75fbd9afdac4feaf4968c9f66f5db1ad7cdae8f
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -55,9 +67,9 @@
   version: 1.2.7
   date: 2022-01-15T00:45:34.722Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: f691e3d2e3e902fc6b7b063309108d268202380c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -66,9 +78,9 @@
   version: 1.2.6
   date: 2022-01-08T00:29:31.408Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to ^12.1.5'
+    - subject: "patch: Update dependency lint-staged to ^12.1.5"
       hash: 485f472873359a13de470cf6e115fbfa1b1d2272
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -77,9 +89,9 @@
   version: 1.2.5
   date: 2022-01-02T22:42:14.227Z
 - commits:
-    - subject: 'patch: Update dependency @types/jest to ^27.4.0'
+    - subject: "patch: Update dependency @types/jest to ^27.4.0"
       hash: 2a0c425d48b2be5ce728e05c69e6bb2d994955ac
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -88,9 +100,9 @@
   version: 1.2.4
   date: 2022-01-01T01:39:35.544Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to ^12.1.4'
+    - subject: "patch: Update dependency lint-staged to ^12.1.4"
       hash: 70f1d919e5f4d6fc9d91225db7a8a260a0e38dda
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -99,9 +111,9 @@
   version: 1.2.3
   date: 2021-12-25T01:41:42.421Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to ^12.1.3'
+    - subject: "patch: Update dependency lint-staged to ^12.1.3"
       hash: f4cb7980b7d1b9cef2def96a945400e71e5eadd5
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -110,9 +122,9 @@
   version: 1.2.2
   date: 2021-12-18T11:12:25.891Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: 1adfa5ae918ae8c433773bb0e15887d7171cc388
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -123,7 +135,7 @@
 - commits:
     - subject: Reexport internal types that are used in public interfaces
       hash: 60ffe5ef07bef1febe1747abec901c5e68e325ba
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -134,9 +146,9 @@
   version: 1.2.0
   date: 2021-12-16T18:15:40.623Z
 - commits:
-    - subject: 'Drop depcheck, bump typescript'
+    - subject: Drop depcheck, bump typescript
       hash: e04bf5d8aa1960d17922729f7f5fb18f2fd181dc
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -147,15 +159,15 @@
   version: 1.1.103
   date: 2021-12-14T01:28:57.973Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: 3bb0ecc16f0332f2d978816d93e7cff16edc93cf
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
       author: Renovate Bot
       nested: []
-    - subject: 'patch: Update dependency typescript to ^4.5.3'
+    - subject: "patch: Update dependency typescript to ^4.5.3"
       hash: 7038537f1e222a5be445b5fd7f4a686afbd740b9
       body: |
         Update typescript from 4.5.2 to 4.5.3
@@ -167,9 +179,9 @@
   version: 1.1.102
   date: 2021-12-11T00:24:11.599Z
 - commits:
-    - subject: 'patch: Update dependency ts-jest to ^27.1.0'
+    - subject: "patch: Update dependency ts-jest to ^27.1.0"
       hash: fb04b9c1623e39ef0ee84d26073a963aabe5af74
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -178,9 +190,9 @@
   version: 1.1.101
   date: 2021-12-05T12:29:47.077Z
 - commits:
-    - subject: 'patch: Update dependency jest to ^27.4.3'
+    - subject: "patch: Update dependency jest to ^27.4.3"
       hash: b46e2516bc80db2c226d49b4d487788c3655a02d
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -189,9 +201,9 @@
   version: 1.1.100
   date: 2021-12-04T00:46:20.333Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^2.0.2'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^2.0.2"
       hash: ba7ecd58dbf41e1b6d9a60c7c2f14d465e325733
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -200,7 +212,7 @@
   version: 1.1.99
   date: 2021-11-29T04:45:33.079Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to v2'
+    - subject: "patch: Update dependency @balena/jellyfish-config to v2"
       hash: 92a96fe93c4b48a1fdade1dabd158646f55bc8c3
       body: |
         Update @balena/jellyfish-config from 1.5.17 to 2.0.1
@@ -212,9 +224,9 @@
   version: 1.1.98
   date: 2021-11-27T01:03:33.688Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.22.10'
+    - subject: "patch: Update dependency typedoc to ^0.22.10"
       hash: da4690be512d360e3698bc73f462559f3c7784b0
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -223,7 +235,7 @@
   version: 1.1.97
   date: 2021-11-27T00:56:26.722Z
 - commits:
-    - subject: 'patch: Update dependency @balena/lint to ^6.2.0'
+    - subject: "patch: Update dependency @balena/lint to ^6.2.0"
       hash: 51712f0513df67405ef250e8cd26cfeca29d9940
       body: |
         Update @balena/lint from 6.1.1 to 6.2.0
@@ -235,7 +247,7 @@
   version: 1.1.96
   date: 2021-11-26T15:52:18.241Z
 - commits:
-    - subject: 'patch: Update dependency typescript to ^4.5.2'
+    - subject: "patch: Update dependency typescript to ^4.5.2"
       hash: 09a61176c0ae6b209c346fd2364ff480865c5ccd
       body: |
         Update typescript from 4.4.4 to 4.5.2
@@ -247,9 +259,9 @@
   version: 1.1.95
   date: 2021-11-25T07:50:55.544Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.17'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.17"
       hash: 6a411b042002e091177872e920db95710ff7bb39
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -260,7 +272,7 @@
 - commits:
     - subject: Remove outdated upstreams from repo.yml
       hash: 2d1d91892cdfba211a0fded48c0388f2d2b43506
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -273,7 +285,7 @@
 - commits:
     - subject: Use product-os/renovate-config
       hash: fa73b541d868e63ed4c456186761824c75df50b7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -286,7 +298,7 @@
 - commits:
     - subject: Remove jellycheck
       hash: 3f27fc7050bd2943f1d40993457b6a6f29cbb11e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -297,9 +309,9 @@
   version: 1.1.91
   date: 2021-11-25T01:09:43.857Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.16'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.16"
       hash: 175a18ecd257cc53d468fd9c4d95204feb621bae
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -308,9 +320,9 @@
   version: 1.1.90
   date: 2021-11-24T12:50:51.527Z
 - commits:
-    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+    - subject: 🔄 Synced file(s) with product-os/jellyfish-config
       hash: 037b22f6c0e0d639b6c28617d68ff4cb7adb9240
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -319,9 +331,9 @@
   version: 1.1.89
   date: 2021-11-24T05:53:51.337Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.15'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.15"
       hash: 208a0c7fe0c0b3894f8b468c457a7edcdf441b3f
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -330,9 +342,9 @@
   version: 1.1.88
   date: 2021-11-24T03:42:00.470Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to ^12.1.2'
+    - subject: "patch: Update dependency lint-staged to ^12.1.2"
       hash: 0d7e88405c279e8869c93562609a362a1830a170
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -341,17 +353,17 @@
   version: 1.1.87
   date: 2021-11-23T03:39:12.299Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.14'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.14"
       hash: 8a30f0d1533509f747b67cd2754f9d4d6b65b9da
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
       author: Renovate Bot
       nested: []
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.13'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.13"
       hash: d39c4a58405537f1b04e18a5507bc7373ab3a5c8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -362,7 +374,7 @@
 - commits:
     - subject: Bump lint-staged to v12.1.1
       hash: afc94a4968147472705c998a0110b9fb0f446a80
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -373,17 +385,17 @@
   version: 1.1.85
   date: 2021-11-22T01:00:26.858Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.12'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.12"
       hash: 752e28d17bc646a743cc0268d7aba50d4ae7cf11
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
       author: Renovate Bot
       nested: []
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.11'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.11"
       hash: 9daee6c74e80663549d71ed6779e1ded05eb94fd
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -394,7 +406,7 @@
 - commits:
     - subject: Bump external deps
       hash: f48b349d5c7d7fc67ebc23bf80168c42fa980f66
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -407,7 +419,7 @@
 - commits:
     - subject: Remove license headers
       hash: e97087c25360a39ecb5702e0906c5fd981e10bae
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -418,7 +430,7 @@
   version: 1.1.82
   date: 2021-11-20T07:14:59.396Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellycheck to v1'
+    - subject: "patch: Update dependency @balena/jellycheck to v1"
       hash: 5b8d7a7ad45e81d0ad924f0bbac17b8b631fbac8
       body: |
         Update @balena/jellycheck from 0.1.8 to 1.0.0
@@ -430,9 +442,9 @@
   version: 1.1.81
   date: 2021-11-20T02:20:05.064Z
 - commits:
-    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+    - subject: 🔄 Synced file(s) with product-os/jellyfish-config
       hash: b8fa54e818b4d9c305a6c1047f4c3bcc123a53b2
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -441,9 +453,9 @@
   version: 1.1.80
   date: 2021-11-16T03:53:10.714Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.10'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.10"
       hash: 91791303d2b3f4fdbb601044eb77becc967f195e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -452,9 +464,9 @@
   version: 1.1.79
   date: 2021-11-16T03:02:33.997Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellycheck to ^0.1.8'
+    - subject: "patch: Update dependency @balena/jellycheck to ^0.1.8"
       hash: 10b62e71fa90f7583afbb13006a915908bdbe3e8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -463,9 +475,9 @@
   version: 1.1.78
   date: 2021-11-16T00:40:59.138Z
 - commits:
-    - subject: 'patch: Update internal-patch'
+    - subject: "patch: Update internal-patch"
       hash: c7b6f454e28a0c3f4b47e6058c69be5ea9a2d7c6
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -476,7 +488,7 @@
 - commits:
     - subject: Set license
       hash: df16eefbca2a402b9cf33957828e70646b5f6362
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -487,9 +499,9 @@
   version: 1.1.76
   date: 2021-11-15T03:14:34.146Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.22.9'
+    - subject: "patch: Update dependency typedoc to ^0.22.9"
       hash: ea5e0850ccc1e0b73f53506ece678724efdbc9f9
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -498,9 +510,9 @@
   version: 1.1.75
   date: 2021-11-14T22:42:32.655Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to v12'
+    - subject: "patch: Update dependency lint-staged to v12"
       hash: 3ff12001c982a4f617cbac150c1264c380683185
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -511,7 +523,7 @@
 - commits:
     - subject: Add typedoc to depcheck ignore list
       hash: 52203b7881d0700c7ee2e87648f3e81b7c96bb42
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -519,9 +531,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: 1b88793309532f6d9183d881f21fd915a3f71e12
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -530,9 +542,9 @@
   version: 1.1.73
   date: 2021-11-13T04:31:24.580Z
 - commits:
-    - subject: 'patch: Update dependency @types/jest to v27'
+    - subject: "patch: Update dependency @types/jest to v27"
       hash: 26480455470ba3a2d4ce9db1451fd3341cbef6ce
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -541,9 +553,9 @@
   version: 1.1.72
   date: 2021-11-13T00:04:48.579Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellycheck to ^0.1.5'
+    - subject: "patch: Update dependency @balena/jellycheck to ^0.1.5"
       hash: 7b784b424dcb1f9302efdbdc9d6b4c9fdd3e0e72
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -552,7 +564,7 @@
   version: 1.1.71
   date: 2021-11-11T00:32:53.069Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.5.8'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.5.8"
       hash: 6a81e94800d464b2e7300ed821d9c856c3dc1ebd
       body: |
         Update @balena/jellyfish-config from 1.4.5 to 1.5.8
@@ -566,7 +578,7 @@
 - commits:
     - subject: Update example usage in readme
       hash: c511439bd220e4c098b9e49be1ecd441615cc93e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -579,7 +591,7 @@
 - commits:
     - subject: Set type for errors
       hash: ef7adef4ddfb6c0c6ff3382f37ef6793700457f3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -587,9 +599,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+    - subject: 🔄 Synced file(s) with product-os/jellyfish-config
       hash: a886a4d71df6fd5517a568d25d2f61aba889e2fa
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -612,9 +624,9 @@
   version: 1.1.67
   date: 2021-08-04T09:42:11.394Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: bf8103451778565a6c860fca0477c05e9492efbb
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -625,7 +637,7 @@
 - commits:
     - subject: Remove whitesource config
       hash: f813814831066972729371b093648416fb4f8df6
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -636,9 +648,9 @@
   version: 1.1.65
   date: 2021-07-16T23:38:40.587Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.4.5'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.4.5"
       hash: 33b42156f3576eea964ed2338578f998c63c138a
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -647,9 +659,9 @@
   version: 1.1.64
   date: 2021-07-14T04:11:40.881Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.21.3'
+    - subject: "patch: Update dependency typedoc to ^0.21.3"
       hash: 9d846f52101298e0939e99bd4336ed54ed1a24e3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -658,9 +670,9 @@
   version: 1.1.63
   date: 2021-07-10T23:56:30.655Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: ffb8084f3a0fb88005d0426ff533d364e89bab76
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -669,9 +681,9 @@
   version: 1.1.62
   date: 2021-07-10T00:26:02.247Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.4.4'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.4.4"
       hash: f8f431fd68504c30c7bbca870088c764b5b4e400
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -680,9 +692,9 @@
   version: 1.1.61
   date: 2021-07-10T00:09:31.932Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.4.3'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.4.3"
       hash: 178b1985dee94a4605d507d9be426b314ad1caa3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -691,9 +703,9 @@
   version: 1.1.60
   date: 2021-07-05T01:11:41.568Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.4.2'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.4.2"
       hash: c39533a7553518b5beefe35f1de99eef946bbced
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -702,9 +714,9 @@
   version: 1.1.59
   date: 2021-07-03T01:37:40.833Z
 - commits:
-    - subject: 'patch: Update dependency typescript to ^4.3.5'
+    - subject: "patch: Update dependency typescript to ^4.3.5"
       hash: c9d08c42007f5f3e17dc8ec07217bc307d29465d
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -713,9 +725,9 @@
   version: 1.1.58
   date: 2021-07-03T01:02:30.664Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.4.1'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.4.1"
       hash: 28e8908eea2763f88ab0affc9c162ac82074f667
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -724,7 +736,7 @@
   version: 1.1.57
   date: 2021-07-02T23:10:20.634Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.4.0'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.4.0"
       hash: dfbbcd47bc803374c805813c7aee57cd82bde361
       body: |
         Update @balena/jellyfish-config from 1.3.4 to 1.4.0
@@ -736,9 +748,9 @@
   version: 1.1.56
   date: 2021-07-02T06:36:24.038Z
 - commits:
-    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+    - subject: 🔄 Synced file(s) with product-os/jellyfish-config
       hash: 5e2f2841851d983dd23a2b6f01bbe86b5e59f160
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -747,9 +759,9 @@
   version: 1.1.55
   date: 2021-06-30T01:15:13.214Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.3.4'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.3.4"
       hash: 26b309d6489768cc0f2d392a38b4f5ab3e5585a8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -758,9 +770,9 @@
   version: 1.1.54
   date: 2021-06-29T10:03:31.554Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: 5d5fc132fb4ed2be6cc9e2b848f6b46aeb98d489
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -771,7 +783,7 @@
 - commits:
     - subject: Bump simple-git-hooks to v2.5.1
       hash: fdd39fe1059755bd329ca3b861fac2c0bb0eb82c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -784,7 +796,7 @@
 - commits:
     - subject: Bump jest to v27.0.5
       hash: 7fadb1caa5f399cc919672eb63dbbe5b4a77ab94
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -795,9 +807,9 @@
   version: 1.1.51
   date: 2021-06-23T23:05:10.595Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.3.3'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.3.3"
       hash: f1b64d8ab1a1ccad6234ddd52bf0591c5e83a1a4
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -808,7 +820,7 @@
 - commits:
     - subject: Bump typescript to v4.3.4
       hash: a30de3f5410d5efde33c8f273b95a68e1e544926
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -819,9 +831,9 @@
   version: 1.1.49
   date: 2021-06-19T09:09:50.213Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.3.2'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.3.2"
       hash: 0ef9f9ca6bc7bfe53664b1f167cf0b92857067f3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -832,7 +844,7 @@
 - commits:
     - subject: Remove package-lock.json
       hash: f4c824e1fd3b8dbc1ed223b26f5cbdfdbf25df38
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -840,9 +852,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+    - subject: 🔄 Synced file(s) with product-os/jellyfish-config
       hash: d8f0d4af045798b7e65086c6bfd710abb318b258
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -851,9 +863,9 @@
   version: 1.1.47
   date: 2021-06-14T23:53:20.839Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.3.1'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.3.1"
       hash: 384339ee1df345d3f2beb9d90a42405ea2191b62
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -862,7 +874,7 @@
   version: 1.1.46
   date: 2021-06-11T05:12:40.531Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.3.0'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.3.0"
       hash: 23982b1b36989d783db9e089a18a1d4bb758b911
       body: |
         Update @balena/jellyfish-config from 1.2.8 to 1.3.0
@@ -874,9 +886,9 @@
   version: 1.1.45
   date: 2021-06-08T04:19:52.920Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.8'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.8"
       hash: 0299f9354148dcabdad7260eb6d83eb85f9b60b5
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -885,9 +897,9 @@
   version: 1.1.44
   date: 2021-06-08T02:57:11.462Z
 - commits:
-    - subject: 'patch: Update dependency ts-jest to ^27.0.3'
+    - subject: "patch: Update dependency ts-jest to ^27.0.3"
       hash: 7e0387d7cb0d112c5c40885959203a93a66ed307
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -896,9 +908,9 @@
   version: 1.1.43
   date: 2021-06-06T17:33:21.926Z
 - commits:
-    - subject: 'patch: Update external-non-major'
+    - subject: "patch: Update external-non-major"
       hash: cf11f73e748736754faf55aaeeb03aef08ec4031
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -909,7 +921,7 @@
 - commits:
     - subject: Improve lint-staged config
       hash: 4b92b741972c22c5f7edbaa5e178dfb4c4239293
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -922,7 +934,7 @@
 - commits:
     - subject: Remove unnecessary catch-uncommitted
       hash: 21478bf1ac2a4d1388f3cb0af9ac796ee9654d28
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -933,9 +945,9 @@
   version: 1.1.40
   date: 2021-06-02T07:21:11.013Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.7'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.7"
       hash: fcc5469b974f9c62941689b595884356d7b3e978
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -944,9 +956,9 @@
   version: 1.1.39
   date: 2021-05-31T21:14:52.401Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.6'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.6"
       hash: f8ddfd33a45fc33332c38286ffdd39c6844886bd
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -955,9 +967,9 @@
   version: 1.1.38
   date: 2021-05-31T03:20:21.363Z
 - commits:
-    - subject: 'patch: Update dependency jest to ^27.0.3'
+    - subject: "patch: Update dependency jest to ^27.0.3"
       hash: 47ffd87ff350ceb45ec12659d40083cce40b95ca
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -966,9 +978,9 @@
   version: 1.1.37
   date: 2021-05-29T19:37:00.883Z
 - commits:
-    - subject: 'patch: Update dependency jest to ^27.0.2'
+    - subject: "patch: Update dependency jest to ^27.0.2"
       hash: 5c4702f375838ceab6f6c4b2fff5a8acbea69c93
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -977,9 +989,9 @@
   version: 1.1.36
   date: 2021-05-29T12:56:56.512Z
 - commits:
-    - subject: 'patch: Update external-major to v27'
+    - subject: "patch: Update external-major to v27"
       hash: a8566842fc951bc1e90108337b50f2de0b1306b7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -988,9 +1000,9 @@
   version: 1.1.35
   date: 2021-05-29T00:44:58.780Z
 - commits:
-    - subject: 'patch: Update dependency typescript to ^4.3.2'
+    - subject: "patch: Update dependency typescript to ^4.3.2"
       hash: 6f416acb77da94f527e0e69e9d90402b35d4a3c8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -999,9 +1011,9 @@
   version: 1.1.34
   date: 2021-05-29T00:35:30.548Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.5'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.5"
       hash: 0af777732a7c58feb452fa642080e39e03f617af
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1010,9 +1022,9 @@
   version: 1.1.33
   date: 2021-05-27T09:53:28.234Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.4'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.4"
       hash: c2eee78d60dd2c7042d27864bee83f75ca9cfd07
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1021,9 +1033,9 @@
   version: 1.1.32
   date: 2021-05-27T08:35:00.964Z
 - commits:
-    - subject: "\U0001F504 Synced file(s) with product-os/jellyfish-config"
+    - subject: 🔄 Synced file(s) with product-os/jellyfish-config
       hash: 0dc5c137466a1d9d6f62bc0069647a49ba43d5f6
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1032,9 +1044,9 @@
   version: 1.1.31
   date: 2021-05-27T06:46:30.701Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.3'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.3"
       hash: 283711f577dc1c7725939632e4251ab95363bb39
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1043,9 +1055,9 @@
   version: 1.1.30
   date: 2021-05-27T04:57:08.562Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.2'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.2"
       hash: 0db1b278b3d2048ea58e628e662c3595f8aa3a16
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1054,7 +1066,7 @@
   version: 1.1.29
   date: 2021-05-27T03:55:42.328Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.2.1'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.2.1"
       hash: 91397bf1fec162cf128abbb5a947f66f98856990
       body: |
         Update @balena/jellyfish-config from 1.0.7 to 1.2.1
@@ -1066,9 +1078,9 @@
   version: 1.1.28
   date: 2021-05-27T02:27:41.101Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.0.7'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.0.7"
       hash: a4008824b49101d7ee9d4d469c4bee93d5b16505
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1077,7 +1089,7 @@
   version: 1.1.27
   date: 2021-05-25T00:12:20.978Z
 - commits:
-    - subject: 'patch: Update dependency @balena/lint to ^6.1.1'
+    - subject: "patch: Update dependency @balena/lint to ^6.1.1"
       hash: f0e314d0948616f02c26aedac78a8b6eb8222161
       body: |
         Update @balena/lint from 6.0.0 to 6.1.1
@@ -1091,7 +1103,7 @@
 - commits:
     - subject: Update jellyfish-config to 1.0.6
       hash: 918677ba9f5d4ef91e16fd235b114cf7ef03aa1d
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1099,7 +1111,7 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: 'patch: Update dependency @balena/lint to v6'
+    - subject: "patch: Update dependency @balena/lint to v6"
       hash: 204c0821b8ec6d6a2c9d7bf633714fd3ba84193f
       body: |
         Update @balena/lint from 5.4.2 to 6.0.0
@@ -1111,9 +1123,9 @@
   version: 1.1.25
   date: 2021-05-24T04:24:51.989Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.0.5'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.0.5"
       hash: 82f45226f9943693dae357c2ae52e4b20929b2da
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1122,9 +1134,9 @@
   version: 1.1.24
   date: 2021-05-24T02:45:51.118Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.0.4'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.0.4"
       hash: 9c36a018d4ada346aa442202c81deea4e6deea69
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1133,9 +1145,9 @@
   version: 1.1.23
   date: 2021-05-23T05:17:04.846Z
 - commits:
-    - subject: 'patch: Update dependency @types/lodash to ^4.14.170'
+    - subject: "patch: Update dependency @types/lodash to ^4.14.170"
       hash: 5c46833ed480ce46b6082939e7a03f69421bf833
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1144,9 +1156,9 @@
   version: 1.1.22
   date: 2021-05-22T00:23:20.581Z
 - commits:
-    - subject: 'patch: Update dependency @balena/jellyfish-config to ^1.0.3'
+    - subject: "patch: Update dependency @balena/jellyfish-config to ^1.0.3"
       hash: bc81fe76bc5d1d4db63708a590f9311228be4933
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1157,7 +1169,7 @@
 - commits:
     - subject: Revert attempt to use external GitHub action
       hash: e4017e7c7c50353beafa2f1a4f596c33703bd858
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1170,7 +1182,7 @@
 - commits:
     - subject: Use external workflow action for publishing docs
       hash: 4a8d4beb8331af7652b2504270ead09c154ad0d7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1183,7 +1195,7 @@
 - commits:
     - subject: Use jellyfish-config
       hash: 09734a9fbd1eb7f32808a25ebf7a59e2848359c0
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1194,9 +1206,9 @@
   version: 1.1.18
   date: 2021-05-21T06:07:41.217Z
 - commits:
-    - subject: 'patch: Update dependency @types/lodash to ^4.14.169'
+    - subject: "patch: Update dependency @types/lodash to ^4.14.169"
       hash: 6cfdae2231b54c9f63d03cddd7033d953b05211e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1205,9 +1217,9 @@
   version: 1.1.17
   date: 2021-05-12T08:26:09.306Z
 - commits:
-    - subject: 'patch: Update dependency depcheck to ^1.4.1'
+    - subject: "patch: Update dependency depcheck to ^1.4.1"
       hash: 0f55d4d2e92a97aa9fbc200408a5ab1d4cbc279c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1216,7 +1228,7 @@
   version: 1.1.16
   date: 2021-05-11T08:04:39.886Z
 - commits:
-    - subject: 'build(deps): bump hosted-git-info from 2.8.8 to 2.8.9'
+    - subject: "build(deps): bump hosted-git-info from 2.8.8 to 2.8.9"
       hash: d9cb99617c936668e14c7060c3e6da2c1dbb5e95
       body: >
         Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from
@@ -1224,24 +1236,22 @@
 
         - [Release notes](https://github.com/npm/hosted-git-info/releases)
 
-        -
-        [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+        - [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
 
-        -
-        [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.8...v2.8.9)
+        - [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.8...v2.8.9)
       footer:
         Change-type: patch
         change-type: patch
-        Signed-off-by: 'dependabot[bot] <support@github.com>'
-        signed-off-by: 'dependabot[bot] <support@github.com>'
-      author: 'dependabot[bot]'
+        Signed-off-by: dependabot[bot] <support@github.com>
+        signed-off-by: dependabot[bot] <support@github.com>
+      author: dependabot[bot]
       nested: []
   version: 1.1.15
   date: 2021-05-08T03:07:04.963Z
 - commits:
-    - subject: 'patch: Update dependency lint-staged to v11'
+    - subject: "patch: Update dependency lint-staged to v11"
       hash: 1b32a9385c86336b19f2c2254e77ce6a019d57a7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1250,9 +1260,9 @@
   version: 1.1.14
   date: 2021-05-07T17:51:00.765Z
 - commits:
-    - subject: 'patch: Update dependency catch-uncommitted to v2'
+    - subject: "patch: Update dependency catch-uncommitted to v2"
       hash: 00f9c2a3fa7145949ead60e6c55cb87301805cfc
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1261,9 +1271,9 @@
   version: 1.1.13
   date: 2021-05-05T21:21:40.163Z
 - commits:
-    - subject: 'patch: Update dependency ts-jest to ^26.5.6'
+    - subject: "patch: Update dependency ts-jest to ^26.5.6"
       hash: 5b8663adff2eb5e4774dea9d05ad6362bf63b7d2
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1272,9 +1282,9 @@
   version: 1.1.12
   date: 2021-05-05T15:31:52.381Z
 - commits:
-    - subject: 'patch: Update dependency @balena/lint to ^5.4.2'
+    - subject: "patch: Update dependency @balena/lint to ^5.4.2"
       hash: 5dccf5796e89a554fc89560cf0d161567303f1e6
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1283,9 +1293,9 @@
   version: 1.1.11
   date: 2021-05-03T10:13:51.201Z
 - commits:
-    - subject: 'patch: Update dependency @types/jest to ^26.0.23'
+    - subject: "patch: Update dependency @types/jest to ^26.0.23"
       hash: 1d08f86365534d9b1c1046f0e22373558297830b
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1294,9 +1304,9 @@
   version: 1.1.10
   date: 2021-04-26T23:51:40.317Z
 - commits:
-    - subject: 'patch: Update dependency simple-git-hooks to ^2.4.1'
+    - subject: "patch: Update dependency simple-git-hooks to ^2.4.1"
       hash: b322e7ec180dc38459e9bf09b1cad308d5b9382b
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1305,9 +1315,9 @@
   version: 1.1.9
   date: 2021-04-24T14:05:42.120Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.20.36'
+    - subject: "patch: Update dependency typedoc to ^0.20.36"
       hash: def43f948942a6742e4fac5e785034bba2b41bfe
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1316,9 +1326,9 @@
   version: 1.1.8
   date: 2021-04-23T04:49:51.528Z
 - commits:
-    - subject: 'patch: Update dependency ts-jest to ^26.5.5'
+    - subject: "patch: Update dependency ts-jest to ^26.5.5"
       hash: a2deb3a8577ccea4cf87d8363bc9eb132047f105
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1327,9 +1337,9 @@
   version: 1.1.7
   date: 2021-04-15T16:53:27.255Z
 - commits:
-    - subject: 'patch: Update dependency typescript to ^4.2.4'
+    - subject: "patch: Update dependency typescript to ^4.2.4"
       hash: 924feafac2847365a6a0adfadad47dce704608b3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1338,9 +1348,9 @@
   version: 1.1.6
   date: 2021-04-07T20:28:29.661Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.20.35'
+    - subject: "patch: Update dependency typedoc to ^0.20.35"
       hash: b75ef3b60c9d6c177ae51dbc8598401b8ba3a949
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1349,9 +1359,9 @@
   version: 1.1.5
   date: 2021-04-03T21:18:05.975Z
 - commits:
-    - subject: 'patch: Update dependency simple-git-hooks to ^2.3.1'
+    - subject: "patch: Update dependency simple-git-hooks to ^2.3.1"
       hash: 82c9a26054a6268e4ec3d97f55bc276bdcd590ba
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1370,16 +1380,16 @@
       footer:
         Change-type: patch
         change-type: patch
-        Signed-off-by: 'dependabot[bot] <support@github.com>'
-        signed-off-by: 'dependabot[bot] <support@github.com>'
-      author: 'dependabot[bot]'
+        Signed-off-by: dependabot[bot] <support@github.com>
+        signed-off-by: dependabot[bot] <support@github.com>
+      author: dependabot[bot]
       nested: []
   version: 1.1.3
   date: 2021-03-31T06:36:40.401Z
 - commits:
     - subject: Split up tsconfig
       hash: 71382256f6de5c0fcde76ce08049bf5346de7dd9
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1390,9 +1400,9 @@
   version: 1.1.2
   date: 2021-03-31T00:00:40.417Z
 - commits:
-    - subject: 'patch: Update dependency @types/jest to ^26.0.22'
+    - subject: "patch: Update dependency @types/jest to ^26.0.22"
       hash: 4fdf947bce04a77ee1baed4927031c55a5637a78
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1403,7 +1413,7 @@
 - commits:
     - subject: AssertExpression can be any type
       hash: 4d23a378452270dd8a45b249427cb39042ca73ba
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -1414,9 +1424,9 @@
   version: 1.1.0
   date: 2021-03-25T06:37:40.244Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.20.34'
+    - subject: "patch: Update dependency typedoc to ^0.20.34"
       hash: bdbaff7a248e651a07a6ccf9be0ef3a33ae449b4
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1427,7 +1437,7 @@
 - commits:
     - subject: Switch from husky to simple-git-hooks
       hash: 808793cd2db91eaf9ceaa76accf405a7836c1609
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1440,7 +1450,7 @@
 - commits:
     - subject: Publish docs with GitHub action
       hash: ac060d9e052a43dd20c0e71b5de17cefd030c445
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1465,9 +1475,9 @@
   version: 1.0.67
   date: 2021-03-22T09:32:46.338Z
 - commits:
-    - subject: 'patch: Update dependency typedoc to ^0.20.33'
+    - subject: "patch: Update dependency typedoc to ^0.20.33"
       hash: 772ef1566d4d88036fbd7f7c7446cd0c3dfdd65d
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1476,9 +1486,9 @@
   version: 1.0.66
   date: 2021-03-22T03:22:03.419Z
 - commits:
-    - subject: 'patch: Update dependency husky to ^5.2.0'
+    - subject: "patch: Update dependency husky to ^5.2.0"
       hash: 366e2b646af240186fcbdc261ddd783209e2507e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1489,7 +1499,7 @@
 - commits:
     - subject: Update docs
       hash: 28261ccd4b36a85c4205c8b5c2c8121b15f71f60
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1497,9 +1507,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: 'patch: Update non-major'
+    - subject: "patch: Update non-major"
       hash: 6010042b8cef53d1069d34f1f18d8d087b8f7bf9
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1510,7 +1520,7 @@
 - commits:
     - subject: Update docs
       hash: 3e5583d60af9df651d109c67290a4e912f441429
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1518,9 +1528,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: 'patch: Update non-major'
+    - subject: "patch: Update non-major"
       hash: 39df8db44e6c794010dd51e962efee0b34266e16
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1529,9 +1539,9 @@
   version: 1.0.63
   date: 2021-03-11T23:43:57.625Z
 - commits:
-    - subject: 'patch: Update dependency husky to ^5.1.3'
+    - subject: "patch: Update dependency husky to ^5.1.3"
       hash: d4d2ad7949fd035d63310819d2edbb7075e05071
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1540,9 +1550,9 @@
   version: 1.0.62
   date: 2021-03-02T03:57:05.003Z
 - commits:
-    - subject: 'patch: Update dependency husky to ^5.1.2'
+    - subject: "patch: Update dependency husky to ^5.1.2"
       hash: 4cde0b67ac02116f839b7bd2bb8cb566e02e21ba
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1553,7 +1563,7 @@
 - commits:
     - subject: Update docs
       hash: 81fd75cfdd25e6c41e04f49a45a266f79bad247e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1561,9 +1571,9 @@
         signed-off-by: Josh Bowling <josh@balena.io>
       author: Josh Bowling
       nested: []
-    - subject: 'patch: Update non-major'
+    - subject: "patch: Update non-major"
       hash: adfe80f123c1b960520539d7f865248c6c4f89a8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -1574,7 +1584,7 @@
 - commits:
     - subject: Add versionbot CHANGELOG.yml
       hash: ee7453ea9ded27e516f794b873b1f50eb7a2ac9e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
