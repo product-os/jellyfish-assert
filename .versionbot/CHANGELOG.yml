@@ -1,4 +1,24 @@
 - commits:
+    - subject: Update external-non-major
+      hash: 817fb21408175a53f218fdaa544c25668e7e5e0d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+    - subject: Update dependencies (internal patch bumps)
+      hash: 17fd2f3e05ad23a8404841dec5d72338c396acb1
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.2.19
+  title: "'Update external-non-major'"
+  date: 2022-03-19T03:34:02.675Z
+- commits:
     - subject: Update typescript from 4.5.5 to 4.6.2
       hash: 597c2d99826673671f6b91eca1c4afb04742caf4
       body: ""
