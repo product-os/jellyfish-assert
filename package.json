@@ -1,6 +1,6 @@
 {
   "name": "@balena/jellyfish-assert",
-  "version": "1.2.26",
+  "version": "1.2.27",
   "repository": {
     "type": "git",
     "url": "https://github.com/product-os/jellyfish-assert.git"
@@ -62,6 +62,6 @@
     "pre-commit": "npx lint-staged"
   },
   "versionist": {
-    "publishedAt": "2022-04-23T00:05:06.360Z"
+    "publishedAt": "2022-04-30T10:35:19.769Z"
   }
 }

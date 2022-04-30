@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update node engine version
+      hash: a7cc8a27dcefde2487b9561b9b158c6e8d969d57
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.27
+  title: "'Update node engine version'"
+  date: 2022-04-30T10:35:19.534Z
+- commits:
     - subject: Update external-non-major
       hash: 86397b922e6159a11485c4bb9464e88b42d5c44d
       body: ""
