@@ -6,7 +6,7 @@
     "url": "https://github.com/product-os/jellyfish-assert.git"
   },
   "engines": {
-    "node": ">=12.15.0"
+    "node": ">=16.14.0"
   },
   "description": "Assert library for Jellyfish",
   "main": "build/index.js",
