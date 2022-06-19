@@ -1,4 +1,18 @@
 - commits:
+    - subject: Drop Makefile
+      hash: f289a75c2a7a529a3b268f90ade27f49718d0741
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.38
+  title: "'Drop Makefile'"
+  date: 2022-06-19T07:41:36.885Z
+- commits:
     - subject: Drop @balena/jellyfish-config
       hash: 9435312665179533013437d76f1d4a0c5cfdc5d0
       body: ""
