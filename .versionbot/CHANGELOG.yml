@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update ts-jest from 28.0.3 to 28.0.7
+      hash: 8cf428a91cae9db04e7375c64d8729dfad7691e2
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.48
+  title: "'Update ts-jest from 28.0.3 to 28.0.7'"
+  date: 2022-07-31T12:52:06.378Z
+- commits:
     - subject: Update jest monorepo
       hash: fae11c7f5a2a27e36c4628c39309cb2f1c989587
       body: ""
