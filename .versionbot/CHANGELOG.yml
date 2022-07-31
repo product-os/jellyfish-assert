@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update lint-staged from 13.0.2 to 13.0.3
+      hash: f77684a0a1c21fdf41f208d014aff5282b18f444
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.49
+  title: "'Update lint-staged from 13.0.2 to 13.0.3'"
+  date: 2022-07-31T13:13:17.369Z
+- commits:
     - subject: Update ts-jest from 28.0.3 to 28.0.7
       hash: 8cf428a91cae9db04e7375c64d8729dfad7691e2
       body: ""
