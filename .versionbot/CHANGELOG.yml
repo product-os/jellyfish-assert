@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update typedoc from 0.23.9 to 0.23.10
+      hash: bc402b8ac237fa10193dd51e3017aca62a47c023
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.50
+  title: "'Update typedoc from 0.23.9 to 0.23.10'"
+  date: 2022-07-31T18:13:15.055Z
+- commits:
     - subject: Update lint-staged from 13.0.2 to 13.0.3
       hash: f77684a0a1c21fdf41f208d014aff5282b18f444
       body: ""
