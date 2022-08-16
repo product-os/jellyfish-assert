@@ -1,4 +1,18 @@
 - commits:
+    - subject: Remove secrets from gitignore
+      hash: 46593d46f2343a27c407daa9607c738fb638ec62
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.51
+  title: "'Remove secrets from gitignore'"
+  date: 2022-08-16T05:51:24.226Z
+- commits:
     - subject: Update typedoc from 0.23.9 to 0.23.10
       hash: bc402b8ac237fa10193dd51e3017aca62a47c023
       body: ""
