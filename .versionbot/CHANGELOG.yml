@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update ts-jest from 28.0.7 to 28.0.8
+      hash: 4b946e24e94f31ea1f5d5b4de50d4fa40a21d084
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.54
+  title: "'Update ts-jest from 28.0.7 to 28.0.8'"
+  date: 2022-08-20T03:23:14.699Z
+- commits:
     - subject: Update @types/lodash from 4.14.182 to 4.14.184
       hash: f77fd3f82712e07e95156441c661487f586e3203
       body: ""
