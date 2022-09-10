@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update jest from 29.0.2 to 29.0.3
+      hash: f34f0c8e5d85064b149edf4f9a04b5d05ce1d8cd
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.61
+  title: "'Update jest from 29.0.2 to 29.0.3'"
+  date: 2022-09-10T16:44:20.832Z
+- commits:
     - subject: Update jest to v29
       hash: fb45f58f475c74840ea63e9d394ef089787cdffa
       body: ""
