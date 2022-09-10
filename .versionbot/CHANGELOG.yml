@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update jest to v29
+      hash: fb45f58f475c74840ea63e9d394ef089787cdffa
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.60
+  title: "'Update jest to v29'"
+  date: 2022-09-10T02:21:39.585Z
+- commits:
     - subject: Update typedoc to 0.23.14
       hash: fa9411c54c7d1240d4f59df9d7e608a2e6de4b07
       body: ""
