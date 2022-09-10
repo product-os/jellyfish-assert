@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update typescript to 4.8.3
+      hash: 067f8132c93dd949545d8d40457474e18ab6d486
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.58
+  title: "'Update typescript to 4.8.3'"
+  date: 2022-09-10T01:19:50.213Z
+- commits:
     - subject: Update typescript from 4.7.4 to 4.8.2
       hash: 95d5d524ac89b9939c6547da9e9df024a507d21f
       body: ""
