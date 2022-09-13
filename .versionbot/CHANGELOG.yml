@@ -1,4 +1,18 @@
 - commits:
+    - subject: "CI: Remove main branch trigger"
+      hash: fa5b17cb202ab0504e5d24138b2c53cfa90eb79e
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.65
+  title: ""
+  date: 2022-09-13T02:10:02.620Z
+- commits:
     - subject: "CI: Move to Flowzone"
       hash: 8e14591c0dc6269f1087c29442f24816f1529212
       body: ""
