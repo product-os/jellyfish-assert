@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update @types/jest from 29.0.1 to 29.0.3
+      hash: 4cee05e5473260fad6c2d8d0a14449f496eb539b
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.68
+  title: ""
+  date: 2022-09-17T00:38:32.181Z
+- commits:
     - subject: Update node engine version
       hash: 221ccc123c8a09b9179751ec0965ac7967f9e27e
       body: ""
