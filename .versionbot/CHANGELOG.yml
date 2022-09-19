@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add CodeQL workflow
+      hash: f2dd86064ddc0f22c50bc0d434eb64293efe8af2
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.72
+  title: ""
+  date: 2022-09-19T06:37:09.700Z
+- commits:
     - subject: "Dev: Add .nvmrc"
       hash: ad9a5ed27a6489b794d73f1c0872bb6f1820b0d8
       body: ""
