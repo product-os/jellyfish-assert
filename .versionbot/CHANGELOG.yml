@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update ts-jest from 29.0.1 to 29.0.2
+      hash: d4f9e02618da3f2c063f5b7691117fc2730a6e9b
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.74
+  title: ""
+  date: 2022-09-24T10:09:34.461Z
+- commits:
     - subject: "Dev: Remove unenforceable .editorconfig"
       hash: 8aa8cf8a190b1cc389fcff40177d4178004882b7
       body: |
