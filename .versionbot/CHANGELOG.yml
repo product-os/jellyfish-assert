@@ -1,4 +1,16 @@
 - commits:
+    - subject: Rely on flowzone for docs publishing
+      hash: 6431a80f4d5c143a24c2aa18cd61bcdb21a6fe17
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+      nested: []
+  version: 1.2.76
+  title: ""
+  date: 2022-09-27T14:16:36.697Z
+- commits:
     - subject: Change engines to >=16 to enable node 18 tests/usage
       hash: ff58ca50166401d3d2ed4f2bdb406afe75610265
       body: ""
