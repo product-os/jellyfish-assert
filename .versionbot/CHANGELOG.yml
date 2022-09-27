@@ -1,4 +1,16 @@
 - commits:
+    - subject: Change engines to >=16 to enable node 18 tests/usage
+      hash: ff58ca50166401d3d2ed4f2bdb406afe75610265
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+      nested: []
+  version: 1.2.75
+  title: ""
+  date: 2022-09-27T11:08:53.249Z
+- commits:
     - subject: Update ts-jest from 29.0.1 to 29.0.2
       hash: d4f9e02618da3f2c063f5b7691117fc2730a6e9b
       body: ""
