@@ -1,4 +1,18 @@
 - commits:
+    - subject: "Dev: Remove tsx from lint-staged"
+      hash: 5bbd16dacdd6d1d094dbeab710c4fa75a52d8b68
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.84
+  title: ""
+  date: 2022-10-08T13:21:05.288Z
+- commits:
     - subject: "Dev: Add .prettierignore"
       hash: b67af9b771c985e5765ff9b19f5b6fc4f4cb3a6f
       body: ""
