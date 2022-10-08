@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update @types/jest from 29.1.1 to 29.1.2
+      hash: b4d4619fd40a928f12ea37b4eec8bc4ea75763d0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.81
+  title: ""
+  date: 2022-10-08T02:38:41.304Z
+- commits:
     - subject: Update jest monorepo
       hash: 8383c49f7dd72877dd85ea9c21e7f0e38e6250e8
       body: ""
