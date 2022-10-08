@@ -1,4 +1,18 @@
 - commits:
+    - subject: "Dev: Use prettier for json/yml"
+      hash: 0e72ef1da4fe59e5b11921ca5ebe49664d5caebc
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.82
+  title: ""
+  date: 2022-10-08T10:35:34.757Z
+- commits:
     - subject: Update @types/jest from 29.1.1 to 29.1.2
       hash: b4d4619fd40a928f12ea37b4eec8bc4ea75763d0
       body: ""
