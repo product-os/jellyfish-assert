@@ -1,4 +1,18 @@
 - commits:
+    - subject: "CI: Use JSON for Jest config"
+      hash: 288c94605273ee776862c9b5ae0999050657fa62
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 1.2.85
+  title: ""
+  date: 2022-10-09T15:13:58.836Z
+- commits:
     - subject: "Dev: Remove tsx from lint-staged"
       hash: 5bbd16dacdd6d1d094dbeab710c4fa75a52d8b68
       body: ""
