@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update typedoc from 0.23.15 to 0.23.16
+      hash: 331c4788ed349a5aaa6f3e6d68e262ce3ce4fbf1
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.86
+  title: ""
+  date: 2022-10-10T23:03:05.201Z
+- commits:
     - subject: "CI: Use JSON for Jest config"
       hash: 288c94605273ee776862c9b5ae0999050657fa62
       body: ""
