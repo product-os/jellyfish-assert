@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update jest from 29.1.2 to 29.2.0
+      hash: 8cb4baf1b58cb5c7fd5171c49db394f66f9ddb26
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.87
+  title: ""
+  date: 2022-10-15T02:20:39.315Z
+- commits:
     - subject: Update typedoc from 0.23.15 to 0.23.16
       hash: 331c4788ed349a5aaa6f3e6d68e262ce3ce4fbf1
       body: ""
@@ -2200,8 +2212,8 @@
     - subject: "build(deps): bump hosted-git-info from 2.8.8 to 2.8.9"
       hash: d9cb99617c936668e14c7060c3e6da2c1dbb5e95
       body: >
-        Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from
-        2.8.8 to 2.8.9.
+        Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8
+        to 2.8.9.
 
         - [Release notes](https://github.com/npm/hosted-git-info/releases)
 
