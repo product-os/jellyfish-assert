@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update simple-git-hooks from 2.8.0 to 2.8.1
+      hash: 73ce3bb1ce48c71ba14f340b343e021993a558b5
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.89
+  title: ""
+  date: 2022-10-22T01:21:55.005Z
+- commits:
     - subject: Update typedoc from 0.23.16 to 0.23.17
       hash: 4a78953a08db6d5b642ad22a8467c050a0b4c1f8
       body: ""
