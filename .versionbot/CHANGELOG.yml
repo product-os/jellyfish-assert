@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update jest monorepo
+      hash: b226cacc364a031b6bee9139e244d47d50f79759
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.90
+  title: ""
+  date: 2022-10-22T01:26:57.568Z
+- commits:
     - subject: Update simple-git-hooks from 2.8.0 to 2.8.1
       hash: 73ce3bb1ce48c71ba14f340b343e021993a558b5
       body: ""
