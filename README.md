@@ -23,6 +23,4 @@ assert.USER(context, input, errors.WorkerNoElement, 'Custom error details');
 
 # Documentation
 
-[![Publish Documentation](https://github.com/product-os/jellyfish-assert/actions/workflows/publish-docs.yml/badge.svg)](https://github.com/product-os/jellyfish-assert/actions/workflows/publish-docs.yml)
-
 Visit the website for complete documentation: https://product-os.github.io/jellyfish-assert
