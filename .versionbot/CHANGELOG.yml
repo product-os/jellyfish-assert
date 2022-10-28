@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update typedoc from 0.23.18 to 0.23.19
+      hash: 3030024e89cfd784a20ac0012624b3610fb25e7e
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.93
+  title: ""
+  date: 2022-10-28T04:53:01.856Z
+- commits:
     - subject: "Docs: Remove badge from readme"
       hash: 1bfb041ec797f9c9eae3eb19b9434db197499296
       body: ""
