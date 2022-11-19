@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update typescript from 4.8.4 to 4.9.3
+      hash: 9bace4217f0d49a94e32dd424925681249b1be28
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.103
+  title: ""
+  date: 2022-11-19T03:35:09.980Z
+- commits:
     - subject: Update @types/lodash from 4.14.188 to 4.14.189
       hash: 0422658a5fda650d6066a83304c8fe1f35cb231f
       body: ""
