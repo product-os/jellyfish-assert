@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update prettier from 2.7.1 to 2.8.0
+      hash: 95c6fb4a795388dde037fd3a1a7beb9ad53d23ae
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 1.2.106
+  title: ""
+  date: 2022-11-26T04:29:01.597Z
+- commits:
     - subject: Update lint-staged from 13.0.3 to 13.0.4
       hash: c501972341c59fec4de9760da79f8c336eb5c041
       body: ""
