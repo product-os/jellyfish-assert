@@ -1,4 +1,19 @@
 - commits:
+    - subject: Pin dependencies
+      hash: e5b45dff435a835c3d140a804cd9485649e7db03
+      body: |
+        Update actions/checkout to
+
+        Update actions/checkout from 3 to
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 1.4.0
+  title: ""
+  date: 2022-12-14T00:26:45.106Z
+- commits:
     - subject: Update Node.js to 18.12.1
       hash: f2a62e6271f396a05fc7ddcfa1e355a7dd94d8f3
       body: |
