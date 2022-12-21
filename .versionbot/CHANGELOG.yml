@@ -1,4 +1,19 @@
 - commits:
+    - subject: Update github/codeql-action digest to 959cbb7
+      hash: a0d6f4593f5673adcdf481373156fccad55fcdc7
+      body: |
+        Update github/codeql-action to
+
+        Update github/codeql-action from 2 to
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 1.5.0
+  title: ""
+  date: 2022-12-21T00:23:30.541Z
+- commits:
     - subject: Pin dependencies
       hash: e5b45dff435a835c3d140a804cd9485649e7db03
       body: |
