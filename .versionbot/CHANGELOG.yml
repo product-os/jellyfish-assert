@@ -1,4 +1,16 @@
 - commits:
+    - subject: "Dev: Add .editorconfig"
+      hash: db25d7742f29c05d0060b57a8450c68b7568ffe2
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.5.1
+  title: ""
+  date: 2023-01-01T09:24:04.290Z
+- commits:
     - subject: Update github/codeql-action digest to 959cbb7
       hash: a0d6f4593f5673adcdf481373156fccad55fcdc7
       body: |
