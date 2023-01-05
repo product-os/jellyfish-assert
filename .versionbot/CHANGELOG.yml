@@ -1,4 +1,19 @@
 - commits:
+    - subject: Update actions/checkout digest to ac59398
+      hash: b2a39ca833041c07da455403099e63b40cdc71c0
+      body: |
+        Update actions/checkout to
+
+        Update actions/checkout from 3 to
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 1.6.0
+  title: ""
+  date: 2023-01-05T14:58:13.852Z
+- commits:
     - subject: "Dev: Add .editorconfig"
       hash: db25d7742f29c05d0060b57a8450c68b7568ffe2
       body: ""
