@@ -1,4 +1,16 @@
 - commits:
+    - subject: Remove lodash
+      hash: 5d0d5fcd994d77617cbbc15b5d19f0c1a41a1389
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.11.2
+  title: ""
+  date: 2023-04-01T03:38:14.356Z
+- commits:
     - subject: Bump deps
       hash: e27663a139106cc5a9cd7b9d5185c970ada16edb
       body: ""
