@@ -1,4 +1,3 @@
-import isFunction from 'lodash/isFunction';
 import {
 	AssertError,
 	AssertUser,
@@ -39,7 +38,7 @@ const createError: CreateError = (
 	message,
 	options = {},
 ): AssertError => {
-	const msg = isFunction(message) ? message() : message;
+	const msg = typeof message === 'function' ? message() : message;
 
 	const instance = new error(msg);
 	instance.context = context;
