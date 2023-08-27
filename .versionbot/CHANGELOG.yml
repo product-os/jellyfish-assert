@@ -1,4 +1,16 @@
 - commits:
+    - subject: Remove typedoc
+      hash: b36f433c8e6ea09bd1f6a98953d10d5b86c7d6c6
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.11.3
+  title: ""
+  date: 2023-08-27T07:45:28.643Z
+- commits:
     - subject: Remove lodash
       hash: 5d0d5fcd994d77617cbbc15b5d19f0c1a41a1389
       body: ""
@@ -2642,8 +2654,8 @@
     - subject: "build(deps): bump hosted-git-info from 2.8.8 to 2.8.9"
       hash: d9cb99617c936668e14c7060c3e6da2c1dbb5e95
       body: >
-        Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8
-        to 2.8.9.
+        Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from
+        2.8.8 to 2.8.9.
 
         - [Release notes](https://github.com/npm/hosted-git-info/releases)
 
