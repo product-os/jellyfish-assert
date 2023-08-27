@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update simple-git-hooks to 2.9.0
+      hash: 8a513ca322247ae1b6011d50fa0c74135aa933b2
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.11.6
+  title: ""
+  date: 2023-08-27T08:23:44.865Z
+- commits:
     - subject: Update rimraf to 5.0.1
       hash: 8819e1d390728db1e2b3fd968a89a3c9174814f8
       body: ""
