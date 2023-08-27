@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update typescript to 5.2.2
+      hash: 6fbe423a287e3305ef7e57388fb6c6f088685962
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.11.8
+  title: ""
+  date: 2023-08-27T09:32:20.393Z
+- commits:
     - subject: Update lint-staged to 14.0.1
       hash: 963f11c52c93fccf03b785d461b3fb8f49ae9fe2
       body: ""
