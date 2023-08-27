@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update prettier to 3.0.2
+      hash: e24291822acb0e6daac1bb95e6a0d94128e120fe
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.11.4
+  title: ""
+  date: 2023-08-27T08:10:53.286Z
+- commits:
     - subject: Remove typedoc
       hash: b36f433c8e6ea09bd1f6a98953d10d5b86c7d6c6
       body: ""
