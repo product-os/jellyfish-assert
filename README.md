@@ -20,7 +20,3 @@ import * as assert from '@balena/jellyfish-assert';
 assert.INTERNAL(context, version, errors.InvalidVersion, 'Custom error details');
 assert.USER(context, input, errors.WorkerNoElement, 'Custom error details');
 ```
-
-# Documentation
-
-Visit the website for complete documentation: https://product-os.github.io/jellyfish-assert
