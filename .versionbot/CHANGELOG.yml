@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update rimraf to 5.0.1
+      hash: 8819e1d390728db1e2b3fd968a89a3c9174814f8
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Josh Bowling
+      nested: []
+  version: 1.11.5
+  title: ""
+  date: 2023-08-27T08:16:01.627Z
+- commits:
     - subject: Update prettier to 3.0.2
       hash: e24291822acb0e6daac1bb95e6a0d94128e120fe
       body: ""
